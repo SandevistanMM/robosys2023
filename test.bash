@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -xv
 # SPDX-FileCopyrightText: 2023 Syousei Samitu
 # SPDX-License-Identifier: BDS-3-Clause
 
