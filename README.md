@@ -1,9 +1,21 @@
 # robosys2023
 ロボットシステム学2023
 
-##インストール
+# plusコマンド
+[![test](https://github.com/SsamXI27/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/SsamXI27/robosys2023/actions/workflows/test.yml)
 
-##このコードの使用方法
+## 必要なソフトウェア
+* Python
+  * テスト済み: 3.7~3.10
+
+## テスト環境
+* Ubuntu
+
+## インストール
+
+## 起動手順
+
+## このコードの使用方法
 
 
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
