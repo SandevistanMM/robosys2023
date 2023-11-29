@@ -21,7 +21,7 @@ $ git clone https://github.com/SsamXI27/robosys2023.git
 ```
 $ cd robosys2023
 ```
-* seq (数字を入力)　| ./plus　と入力することで実行します. 例として下記のように入力すると1~10までを足した結果が出力されます. 
+* 入力例です. 
 ```
 $ seq 10 | ./plus
 ```
