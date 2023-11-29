@@ -1,5 +1,5 @@
 # robosys2023
-ロボットシステム学2023の授業にて作成したリポジトリです．このリポジトリ内のコードplusでは，1から指定した数までの連続番号を合計したものを標準出力することができます．
+ロボットシステム学2023の授業にて作成したリポジトリです．このリポジトリ内のコードplusでは，1から指定した数までの連続番号を合計した結果を標準出力することができます．
 
 # plusコマンド
 [![test](https://github.com/SsamXI27/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/SsamXI27/robosys2023/actions/workflows/test.yml)
